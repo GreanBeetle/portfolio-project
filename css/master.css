@@ -6,3 +6,11 @@
   float: left;
   border-radius: 8px;
 }
+
+.about {
+  padding-left: 10px;
+}
+
+.projects {
+  padding: 15px;
+}
