@@ -1,16 +1,14 @@
-/*
-html {
-  background: url(https://media.giphy.com/media/q0YjVPeiOdoK4/giphy.gif)no-repeat center center fixed;
-  background-size: cover;
-}
-*/
-
 body, html {
   background-image: url(https://wallpaperscraft.com/image/vintage_black_light_shadow_9652_2560x1600.jpg);
 }
 
 .jumbotron {
   text-align: right;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.jumbotron h1, .well h2 {
+  color: #660000;
 }
 
 .pic {
@@ -26,10 +24,11 @@ body, html {
   padding: 15px;
 }
 
-#bootstrap-overrides h1, h2 {
-  font-color: (64, 0, 0)
-}
-
 ul {
   list-style-type: none;
 }
+
+/*font-family quick reference
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Ubuntu Condensed', sans-serif;
+*/
