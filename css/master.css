@@ -26,7 +26,7 @@ body, html {
   padding: 15px;
 }
 
-#bootstrap-override h1, h2 {
+#bootstrap-overrides h1, h2 {
   font-color: (64, 0, 0)
 }
 
