@@ -11,13 +11,31 @@ body, html {
   color: #660000;
 }
 
+.projects h2 {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 36pt;
+}
+
 .pic {
   float: left;
   border-radius: 8px;
 }
 
+#aboutme {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#hemingway {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 15pt;
+}
+
 .about {
-  padding-left: 10px;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 36pt;
 }
 
 .projects {
@@ -27,6 +45,12 @@ body, html {
 ul {
   list-style-type: none;
 }
+
+/*
+#quote {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+*/
 
 /*font-family quick reference
 font-family: 'Shadows Into Light', cursive;
