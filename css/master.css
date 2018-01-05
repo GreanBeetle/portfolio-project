@@ -1,3 +1,14 @@
+/*
+html {
+  background: url(https://media.giphy.com/media/q0YjVPeiOdoK4/giphy.gif)no-repeat center center fixed;
+  background-size: cover;
+}
+*/
+
+body, html {
+  background-image: url(https://wallpaperscraft.com/image/vintage_black_light_shadow_9652_2560x1600.jpg);
+}
+
 .jumbotron {
   text-align: right;
 }
@@ -13,6 +24,10 @@
 
 .projects {
   padding: 15px;
+}
+
+#bootstrap-override h1, h2 {
+  font-color: (64, 0, 0)
 }
 
 ul {
