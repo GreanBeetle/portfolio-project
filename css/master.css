@@ -46,11 +46,14 @@ ul {
   list-style-type: none;
 }
 
-/*
-#quote {
-  font-family: 'Ubuntu Condensed', sans-serif;
+.icon li {
+  display: inline-block;
 }
-*/
+
+.icon {
+  text-align: center;
+}
+
 
 /*font-family quick reference
 font-family: 'Shadows Into Light', cursive;
